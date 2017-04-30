@@ -4,10 +4,10 @@
 Harvesting the most underused resource in our cities - cars. We provide co-sharing for the next generation of transportation. 
 
 ## _About Us_ 
-Our company is committed to establishing the highest quality of sustainable transportation for everyone. Rebu is designed to fit your lifestyle and allows you to choose a plan that fits you. Autonomous vehicles are already widely used today and statistics show that they will only continue to grow in the future. Rebu streamlines and shortens the whole experience of driving and makes it convenient and hassle-free. Rebu aims to help people who either don't enjoy driving or simply don't have the time or access to affordable and safe autonomous vehicles. The co-leasing and co-owning service allows utilizes algorithms  that create customizable profiles that fit  the user's **budgets, tastes and lifestyle**. 
+Rebu is committed to establishing the highest quality of sustainable transportation for everyone. Rebu's mission is to match people with one another that desire to co-lease or co-own a vehicle. By utilizing algorithms, Rebu creates a customized profile based on the user's **budgets, tastes and lifestyle**. This allows a hassle-free and convenient way to get in-touch with other users. People who don't drive much, limited time to find an individual or insufficient financial competence can have more opportunities available. Rebu streamlines and shortens the user experience. 
 
 ## _Why Us_ 
-
+We believe that every business action can have negative or positive impacts on the environment. We are passionate about finding technology-related solutions to address social, economic and environmental barriers. By addressing modern problems, we can create meaningful innovations that are cost effective, useful and practical. We are united by the simple principle of creating technology to create more opportunities for others. 
 
 
 ## _Compatibility_ 
