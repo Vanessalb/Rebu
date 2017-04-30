@@ -11,11 +11,9 @@ We believe that every business action can have negative or positive impacts on t
 
 ## _How it Works_ 
 Once the app is downloaded, users will first be taken to a log-in screen.
-
-_Log-in Screen_
+#### _Log-in Screen_
 Users can sign-up for an account or sign in using a Facebook or Gmail account. Information needed creating an account include standard information that utilizes a background check. In addition, preferences of co-sharing a vehicle combine term-lease, location, cost, interest of vehicle and user activity.  
-
-_Home Page_ 
+#### _Home Page_ 
 
 
 
