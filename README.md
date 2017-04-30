@@ -10,7 +10,12 @@ Rebu is committed to establishing the highest quality of sustainable transportat
 We believe that every business action can have negative or positive impacts on the environment. We are passionate about finding technology-related solutions to address social, economic and environmental barriers. By addressing modern problems, we can create meaningful innovations that are cost effective, useful and practical. We are united by the simple principle of creating technology to create more opportunities for others. 
 
 ## _How it Works_ 
-Once the app is downloaded, users will first be taken to a log-in screen. Users can sign-up for an account or sign in with a Facebook or Gmail account. Information needed creating an account includes a background check, credit check and standard information. Preferences 
+Once the app is downloaded, users will first be taken to a log-in screen. 
+_Log-in Screen_
+Users can sign-up for an account or sign in using a Facebook or Gmail account. Information needed creating an account include standard information that utilizes a background check. In addition, preferences of co-sharing a vehicle combine term-lease, location, cost, interest of vehicle and user activity.  
+_Home Page_ 
+
+
 
 ## _Compatibility_ 
 <a href="https://www.apple.com/itunes/"><img src="https://github.com/Vanessalb/Rebu/blob/master/apple-logo-small.png?raw=true"></a> <a href="https://www.microsoft.com/en-US/store/apps/windows"><img src="https://github.com/Vanessalb/Rebu/blob/master/googleplay150.png?raw=true"></a>
