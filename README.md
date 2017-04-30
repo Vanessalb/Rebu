@@ -1,7 +1,10 @@
 # Rebu
-Harvesting the most underused resource in our cities - cars. We provide co-sharing for the next generation of transportation
+Harvesting the most underused resource in our cities - cars. We provide co-sharing for the next generation of transportation. 
 ## _About Us_ 
-Designed to simplify the process of finding a co-buyer, co-leaser or renting out of your vehicle. Rebu uses algorithms to help connect others based on geolocation, etc etc 
+Designed to simplify the process of finding a co-buyer, co-leaser or renting out of your vehicle. Rebu uses algorithms to help connect others based on:
+* Interest
+* Geolocation
+* Term-Amount
 
 
 ## _License_
