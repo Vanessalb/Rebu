@@ -1,4 +1,4 @@
-![](https://github.com/Vanessalb/Rebu/blob/master/Rebu%20Logo.png)
+![](https://github.com/Vanessalb/Rebu/blob/master/Rebu%20Cover.jpg?raw=true)
 
 # Rebu 
 Harvesting the most underused resource in our cities - cars. We provide co-sharing for the next generation of transportation. 
