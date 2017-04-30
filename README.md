@@ -7,12 +7,16 @@ Our company is committed to establishing the highest quality of sustainable tran
 
 ## _Why Us_ 
 
+
+
 ## _Compatibility_ 
 <a href="https://www.apple.com/itunes/"><img src="https://github.com/Vanessalb/Rebu/blob/master/apple-logo-small.png?raw=true"></a> <a href="https://www.microsoft.com/en-US/store/apps/windows"><img src="https://github.com/Vanessalb/Rebu/blob/master/googleplay150.png?raw=true"></a>
 
 
 ## _Find Us_ 
 <a href="http://www.twitter.com/RebU_CoSharing"><img src="https://abs.twimg.com/icons/apple-touch-icon-192x192.png"></a>
+## _Technology Stack_
+Python, Flask, apache, HTML, Boostrap-CSS, Boostrap-JS 
 
 ## _License_
 Copyright 2017 Rebu
