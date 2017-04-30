@@ -9,7 +9,7 @@ Our company is committed to establishing the highest quality of sustainable tran
 
 ## _Compatibility 
 <a href="https://www.apple.com/itunes/"><img src="https://github.com/Vanessalb/Rebu/blob/master/Applestore.jpg?raw=true"></a>
-<a href="http://www.twitter.com/RebU_CoSharing"><img src="https://abs.twimg.com/icons/apple-touch-icon-192x192.png"></a>
+<a href="https://www.microsoft.com/en-US/store/apps/windows"><img src="https://github.com/Vanessalb/Rebu/blob/master/Windows.png?raw=true"></a>
 <a href="http://www.twitter.com/RebU_CoSharing"><img src="https://abs.twimg.com/icons/apple-touch-icon-192x192.png"></a>
 
 ## _Find Us_ 
