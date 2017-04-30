@@ -3,10 +3,9 @@
 # Rebu 
 Harvesting the most underused resource in our cities - cars. We provide co-sharing for the next generation of transportation. 
 ## _About Us_ 
-Designed to simplify the process of finding a co-buyer, co-leaser or renting out of your vehicle. Rebu uses algorithms to help connect others based on:
-* Interest
-* Geolocation
-* Term-Amount
+Our company is committed to establishing the highest quality of sustainable transportation for everyone. Rebu is designed to fit your lifestyle and allows you to choose a plan that fits you. Our application is compatible with recent data that has recently emerged. Autonomous vehicles are already widely used today and statistics show that they will only continue to grow in the future. Rebu streamlines and shortens the whole experience of driving and makes it convenient and hassle-free. Rebu aims to help people who either don't enjoy driving or simply don't have the time or access to affordable and safe autonomous vehicles. The co-leasing and co-owning service allows utilizes algorithms  that create customizable profiles that fit  the user's **budgets, tastes and lifestyle**. 
+
+
 
 
 ## _License_
