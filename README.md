@@ -1,11 +1,9 @@
 ![](https://github.com/Vanessalb/Rebu/blob/master/Rebu%20Cover.jpg?raw=true)
 
-# _Rebu_ 
+-> # _Rebu_ <- 
 Harvesting the most underused resource in our cities - cars. We provide co-sharing for the next generation of transportation. 
 ## _About Us_ 
 Our company is committed to establishing the highest quality of sustainable transportation for everyone. Rebu is designed to fit your lifestyle and allows you to choose a plan that fits you. Autonomous vehicles are already widely used today and statistics show that they will only continue to grow in the future. Rebu streamlines and shortens the whole experience of driving and makes it convenient and hassle-free. Rebu aims to help people who either don't enjoy driving or simply don't have the time or access to affordable and safe autonomous vehicles. The co-leasing and co-owning service allows utilizes algorithms  that create customizable profiles that fit  the user's **budgets, tastes and lifestyle**. 
-
-<center>Testing</center>
 
 ## _Why Us_ 
 
