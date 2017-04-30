@@ -12,16 +12,19 @@ We believe that every business action can have negative or positive impacts on t
 ## _How it Works_ 
 
 #### _Log-in Screen_
-Users can sign-up for an account or sign in using a Facebook or Gmail account. Information needed creating an account include standard information that utilizes a background check. In addition, preferences of co-sharing a vehicle combine term-lease, location, cost, interest of vehicle and user activity.  
+Users can sign-up for an account. Information needed creating an account include standard background check information to ensure qualifications of ownership. In addition, preferences of co-sharing a vehicle combine term-lease, location, cost, interest of vehicle and user activity.  
 #### _Home Page_
 Users will have an overview of: 
-* **My calendar**
-insert stuff
-* **Summon your Rebu** 
-insert stuff
-* **My Co-Shares**
+
+
+* **Finding RebU** 
+
+Find and locate where Rebu is based on geological location. 
 
 * **Finding New Co-Share** 
+
+Lists potential RebUs and allows selection. Ability to chat when selected. Commit to Co-Share. 
+
 
 
 
