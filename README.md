@@ -1,7 +1,7 @@
 # Rebu
 Harvesting the most underused resource in our cities - cars. We provide co-sharing for the next generation of transportation
 ## _About Us_ 
-An app designed to 
+Designed to simplify the process of finding a co-buyer, co-leaser or renting out of your vehicle. Rebu uses algorithms to help connect others based on geolocation, etc etc 
 
 
 ## _License_
@@ -19,4 +19,5 @@ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
 
+## _Find Us_ 
 <a href="http://www.twitter.com/RebU_CoSharing"><img src="https://abs.twimg.com/icons/apple-touch-icon-192x192.png"></a>
