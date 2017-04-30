@@ -16,13 +16,24 @@ Users can sign-up for an account or sign in using a Facebook or Gmail account. I
 #### _Home Page_
 Users will have an overview of: 
 * **My calendar**
-insert stuff
+
+Synchronizes Google Calendar, Outlook Calendar, Apple Calendar Interface
+
 * **Summon your Rebu** 
+
+Request your car when needed. 
+
+* **My Rebu**
+
 insert stuff
-* **My Co-Shares**
-
-* **Finding New Co-Share** 
-
+* **Finding New Rebu** 
+insert stuff
+* **Pay Bill** 
+insert stuff
+* **Rental Vehicle**
+insert stuff
+* **Where is My Rebu** 
+insert stuff
 
 
 ## _Compatibility_ 
